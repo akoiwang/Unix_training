@@ -1,0 +1,11 @@
+orange	6	warehouse
+berry	8	warehouse
+banana	9	depot
+apple	6	dispatched
+apple	4	warehouse
+berry cheese cake	5	canteen
+apple	6	dispatched
+apple	7	dispatched
+berry	8	warehouse
+berry cheese cake	9	kitchen
+pineapple juice	9	warehouse
